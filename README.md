@@ -1,4 +1,13 @@
-## Hi there 👋
+# Beep Boop ![Untitled](https://github.com/user-attachments/assets/c1f02f68-e0b9-44cc-a0cc-8ab27e874745) 
+
+<!--
+- I avoided Github for three years of my CS degree. Now I finally read the documentation.
+- I solve problems so I became an entrepreneur. Now I'm building my solution.
+- My company is called Synerbeat
+
+  I love you
+-->
+
 
 <!--
 **ServingCoder/ServingCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
